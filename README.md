@@ -1,2 +1,2 @@
 # React
-Visit Card
+A simple visit Card
